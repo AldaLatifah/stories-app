@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368989127024",
+    "project_id": "pastories",
+    "storage_bucket": "pastories.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368989127024:android:b75c8ac29ca049a4274fb5",
+        "android_client_info": {
+          "package_name": "com.demo.stories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368989127024-ajcrp1dvkecaps4ra0o7rqk90sacl9hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSD3YBUKD6_sNfjkNy0ETOxle62WcneqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368989127024-ajcrp1dvkecaps4ra0o7rqk90sacl9hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

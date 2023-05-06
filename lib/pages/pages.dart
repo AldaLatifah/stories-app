@@ -1,0 +1,23 @@
+import 'dart:async';
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
+import 'package:pa_stories/controllers/controller.dart';
+import 'package:get/get.dart';
+import 'package:pa_stories/pages/login_page.dart';
+import 'package:pa_stories/pages/profile_page.dart';
+import 'package:pa_stories/widgets/widgets.dart';
+// import 'package:pa_stories/widgets/item_card.dart';
+
+// part 'buy_page.dart';
+part 'detail_page.dart';
+part 'home_page.dart';
+part 'landing_page.dart';
+part 'main_page.dart';
+part 'order_page.dart';
+part 'cart_page.dart';
+part 'register_page.dart';
+// part 'profile_page.dart';
+// part 'search_page.dart';
+part 'splash_screen.dart';
+// part 'order_page.dart';
